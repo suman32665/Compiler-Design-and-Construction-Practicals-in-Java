@@ -1,0 +1,5 @@
+E=E+T/T
+T=T*E/F
+F=(E)/id
+A=ABα/Aa/a
+A=Ac/Aad/bd/c
